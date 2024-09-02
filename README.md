@@ -1,5 +1,5 @@
 # com.brightguy-electric
-*Currently hosted at http://brightguyelectric.s3-website-us-east-1.amazonaws.com/
+*Currently hosted at https://brightguy-electric.com/
 
 ## Just Good Enough Website Service
 Mountain Technologies LLC is offering it's "Just Good Enough Website Service Contract" which includes:
